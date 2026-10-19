@@ -20,7 +20,7 @@ tailwind.config.js  Tailwind settings, used only to regenerate css/tailwind.css
 
 Page-specific styles (fonts, the promo animation, the slideshow) are in the `<style>` block at the top of each HTML file.
 
-The original design files (logos, brochures, banner, full-size photos) are **not** in this repository. They were handed over separately.
+The original design files (logos, brochures, banner, full-size photos) are **not** in this repository. Laundry One Co holds the originals.
 
 ---
 

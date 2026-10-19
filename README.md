@@ -95,4 +95,6 @@ Keep the version at `3.4.17`. Tailwind v4 works differently and would change how
 | **DNS** | Managed by **Netlify DNS**. The domain's nameservers at Crazy Domains point to Netlify. Edit DNS records in Netlify, not Crazy Domains |
 | **HTTPS** | Certificate issued and renewed automatically by Netlify |
 
+The website, code repository, hosting and DNS were handed over to Laundry One Co on 19 October 2026.
+
 **Keep the domain renewed.** Crazy Domains sends renewal notices to the registrant's email. If the domain expires, the website and any links to it stop working. Turning on auto-renew is recommended.
